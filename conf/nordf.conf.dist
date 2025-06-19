@@ -1,0 +1,15 @@
+#
+# Copyright (C) 2016+ AzerothCore <www.azerothcore.org>, released under GNU AGPL v3 license: https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
+#
+########################################
+# No RDF configuration
+########################################
+#
+#    NoRdf.Enable
+#        Description: Disable Random Dungeon Finder and print a error message
+#        Default: 0
+#		 Values:
+#				  0 - Disabled
+#                 1 - Enabled
+#
+NoRdf.Enable = 1
